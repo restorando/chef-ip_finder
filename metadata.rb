@@ -1,0 +1,6 @@
+name             "ip_finder"
+maintainer       "Restorando S.A."
+maintainer_email "ops@restorando.com"
+license          "MIT"
+description      "Adds ip finder class"
+version          "0.1.0"
