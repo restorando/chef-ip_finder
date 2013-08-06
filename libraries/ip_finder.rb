@@ -92,7 +92,7 @@ class Chef
     end
 
     def load_ipaddr_extensions
-      return true if defined?(Sociable::IPAddrExtensions)
+      return true if defined?(IPAddrExtensions)
 
       begin
         require 'ipaddr_extensions'
